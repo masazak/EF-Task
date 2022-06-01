@@ -1,0 +1,14 @@
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\bin\Debug\net6.0\DoctorWhhoo.Db.deps.json
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\bin\Debug\net6.0\DoctorWhhoo.Db.dll
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\bin\Debug\net6.0\ref\DoctorWhhoo.Db.dll
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\bin\Debug\net6.0\DoctorWhhoo.Db.pdb
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\obj\Debug\net6.0\DoctorWhhoo.Db.csproj.AssemblyReference.cache
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\obj\Debug\net6.0\DoctorWhhoo.Db.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\obj\Debug\net6.0\DoctorWhhoo.Db.AssemblyInfoInputs.cache
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\obj\Debug\net6.0\DoctorWhhoo.Db.AssemblyInfo.cs
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\obj\Debug\net6.0\DoctorWhhoo.Db.csproj.CoreCompileInputs.cache
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\obj\Debug\net6.0\DoctorWhhoo.Db.dll
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\obj\Debug\net6.0\ref\DoctorWhhoo.Db.dll
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\obj\Debug\net6.0\DoctorWhhoo.Db.pdb
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\bin\Debug\net6.0\DoctorWhhoo.Db.runtimeconfig.json
+D:\ALL FILES FOR MASA\visual studio\DoctorWhhoo\DoctorWhhoo.Db\obj\Debug\net6.0\DoctorWhhoo.Db.genruntimeconfig.cache
